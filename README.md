@@ -1,3 +1,6 @@
 The File Organizer Application is a simple Java program that lets you create, manage, and display files and folders in a tree structure. It allows you to add files or folders to a parent directory or the root and shows the full structure in a hierarchical fashion.
 
 This application was intended to learn constructing tree data structures and recursion in Java, which simulates how real-world file systems work. It teaches beginners about hierarchical data management and serves as the foundation for more advanced programs such as content management systems and virtual file organizers.
+
+
+The Inventory Management System is a Java-based console application that uses Multi-Way B-trees to organize product names alphabetically and Min-Heaps to track the product with the lowest inventory. It allows users to add products, search for them, arrange all products alphabetically, and locate the product with the lowest supply. This application was made to demonstrate the actual application of efficient data structures for inventory management, with the goal of simplifying and streamlining stock management for small enterprises and education. It helps the community by providing an educational tool for understanding data structures and an efficient inventory management system.
