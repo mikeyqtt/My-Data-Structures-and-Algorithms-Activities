@@ -6,7 +6,7 @@ This application was intended to learn constructing tree data structures and rec
 The Inventory Management System is a Java-based console application that uses Multi-Way B-trees to organize product names alphabetically and Min-Heaps to track the product with the lowest inventory. It allows users to add products, search for them, arrange all products alphabetically, and locate the product with the lowest supply. This application was made to demonstrate the actual application of efficient data structures for inventory management, with the goal of simplifying and streamlining stock management for small enterprises and education. It helps the community by providing an educational tool for understanding data structures and an efficient inventory management system.
 
 Introduction: 
-The Product Price Lookup application is a simple Java console-based program designed to help users manage and retrieve product prices efficiently. It uses a HashMap data structure to store product names and their respective prices, ensuring fast lookups, and additions.
+The Product Price Lookup application is a simple Java console-based program designed to help users manage and retrieve product prices efficiently. It uses a Hash and HashTable data structure to store product names and their respective prices, ensuring fast lookups, and additions.
 
 Features:
  	1. View All Products: Displays a list of all available products without showing their prices.
