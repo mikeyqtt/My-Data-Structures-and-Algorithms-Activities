@@ -19,3 +19,19 @@ The purpose of this application is to provide a simple, efficient tool for manag
 Contribution to the Community:
 It contributes to the community by offering an accessible solution for small businesses and beginners, enabling them to easily track product prices and learn basic programming concepts.
 
+Introduction:
+The Friend Suggestion System is a social network simulation application that uses a graph-based structure to model relationships between users. In this system, users are represented as nodes, and friendships are modeled as edges between those nodes.
+
+Features:
+	1. Add users
+	2. Create Friendships
+	3. Suggest Friends
+	4. Display the Friend Graph
+
+Why Did You Make This Application?
+I created this application to better understand graph data structures and algorithms, specifically for modeling relationships and implementing friend suggestions. It allowed me to practice problem-solving and enhance my programming skills.
+
+How Does It Contribute to You or the Community?
+It contributed to my personal growth by improving my skills in data structures and algorithms. For the community, it serves as an educational tool for learning graph theory and inspires others to build similar applications.
+
+
